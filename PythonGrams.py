@@ -1,5 +1,4 @@
 from textblob import TextBlob
-import io
 import csv
 import re
 from sklearn.metrics import accuracy_score
